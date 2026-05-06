@@ -60,13 +60,12 @@ Output:
 
 Image-1:
 
-<img width="562" height="595" alt="image" src="https://github.com/user-attachments/assets/fed2ef3d-b5a0-466c-8704-b0ee42c7974b" />
+<img width="462" height="495" alt="image" src="https://github.com/user-attachments/assets/fed2ef3d-b5a0-466c-8704-b0ee42c7974b" />
 
 Image-2:
 
-<img width="548" height="587" alt="image" src="https://github.com/user-attachments/assets/34047002-a428-4d0c-8ead-16874da1cefb" />
+<img width="448" height="487" alt="image" src="https://github.com/user-attachments/assets/34047002-a428-4d0c-8ead-16874da1cefb" />
 
-Image-3:
 
 
 
